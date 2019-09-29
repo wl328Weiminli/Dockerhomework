@@ -22,6 +22,7 @@ Run the app
 
 stop the container
     docker container ls
+    
     docker container stop container id
 ![stop](/images/stop.PNG)
 
@@ -35,6 +36,7 @@ publish the image
     docker push wl328lwm/get-started:part2
 
 ![publish](/images/dockerpush.PNG)
+
 ![dockerhub](/images/pushed.PNG)
 
 
