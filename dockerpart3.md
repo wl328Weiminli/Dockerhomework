@@ -19,8 +19,8 @@ add nodes
 add worker
     
      docker-machine ssh myvm2 "docker swarm join \
---token <token> \
-<ip>:2377"
+    --token <token> \
+    <ip>:2377"
 ![myvm2](/images/jionmyvm2.PNG)
 
 deploy
