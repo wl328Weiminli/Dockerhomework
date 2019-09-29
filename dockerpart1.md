@@ -2,7 +2,7 @@
     docker --version
 
 
-![run docker version](/images/dockerversion)
+![run docker version](/images/dockerversion.PNG)
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-![run docker info](/images/dockerinfo)
+![run docker info](/images/dockerinfo.PNG)
 
 
 
