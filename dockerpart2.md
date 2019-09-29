@@ -21,6 +21,7 @@ Run the app
 ![display](/images/display.PNG)
 
 stop the container
+
     docker container ls
     
     docker container stop container id
